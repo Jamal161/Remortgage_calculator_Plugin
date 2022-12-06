@@ -1,5 +1,5 @@
-First wordpress install then any theme install
-go to plugin option
-then add plugin option
-Just Zip file install
-use your web page
+1.First wordpress install then any theme install
+2.go to plugin option
+3.then add plugin option
+4.Just Zip file install
+5.use your web page
